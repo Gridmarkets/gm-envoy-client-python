@@ -1,0 +1,10 @@
+*.pyc
+**/*.pyc
+.pytest_cache
+_pycache_
+gridmarkets_envoy_client.egg-info
+build
+dist
+site
+**/*.bak
+.vscode
